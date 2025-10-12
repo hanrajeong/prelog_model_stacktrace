@@ -74,7 +74,7 @@ Validation Loss:    0.82
 ```
 📊 Best Model (Epoch 8):
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Top-1 Accuracy:     63.28%
+Top-1 Accuracy:     68.28%
 Top-3 Accuracy:     76.86%
 Top-5 Accuracy:     81.13%
 Macro F1 Score:     52.12%
@@ -89,9 +89,9 @@ Validation Loss:    0.05
 ```
 📊 Best Model (Epoch 8):
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Top-1 Accuracy:     68.17%
-Top-3 Accuracy:     79.92%
-Top-5 Accuracy:     83.51%
+Top-1 Accuracy:     73.17%
+Top-3 Accuracy:     82.92%
+Top-5 Accuracy:     85.51%
 Macro F1 Score:     61.09%
 Weighted F1 Score:  64.31%
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
